@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 30.3096,
+        "lat": 59.9417
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 3.42,
+        "feels_like": -0.08,
+        "temp_min": 3.14,
+        "temp_max": 3.42,
+        "pressure": 1023,
+        "humidity": 93,
+        "sea_level": 1023,
+        "grnd_level": 1020
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4,
+        "deg": 230
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1735146639,
+    "sys": {
+        "type": 2,
+        "id": 197864,
+        "country": "RU",
+        "sunrise": 1735110101,
+        "sunset": 1735131362
+    },
+    "timezone": 10800,
+    "id": 519690,
+    "name": "Novaya Gollandiya",
+    "cod": 200
+}
